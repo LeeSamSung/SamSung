@@ -1,1 +1,1 @@
-print("이승근 멍청이")
+print("이승근 천재 genius")
